@@ -43,14 +43,14 @@ button {
 button:hover {
     background-color: rgb(25, 160, 184);
 }
-.btn-laranja {
+.btn-abobora {
     color: rgb(250, 5, 5);
 }
-.btn-laranja-red {
+.btn-abobora-red {
     background-color: rgb(250, 123, 5);
     color: rgb(3, 54, 6);
 }
-.btn-laranja-red:hover {
+.btn-abobora-red:hover {
     background-color: red;
 }  
 #resultado {
